@@ -1,0 +1,7 @@
+{
+  "name": "aws-bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Júlio Xavier <julioxavierr@gmail.com>",
+  "license": "MIT"
+}
